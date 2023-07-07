@@ -39,13 +39,9 @@ To run Little Taco Shop locally, follow these steps:
 
 1.  Clone the repository:
 
-    shell
-
 -   `git clone https://github.com/DimitarMitev92/little-taco-shop.git`
 
     -   Navigate to the project directory:
-
-    shell
 
 1.  `cd little-taco-shop`
 
